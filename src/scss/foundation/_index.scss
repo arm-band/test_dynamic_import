@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+@forward "variables";
+@forward "mixin";
+
+// dynamic import test
+@use "parts-bg";
